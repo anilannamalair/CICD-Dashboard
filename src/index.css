@@ -1,0 +1,35 @@
+/* src/index.css */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.card-body {
+  background-color: #ffffff;
+}
+
+h5 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 500;
+}
+table {
+    caption-side: bottom ;
+    border-collapse: collapse;
+    margin-right: 20px;
+    table-layout: fixed; /* Ensures columns respect the width you set */
+    width: 85%; /* Optional: can set a fixed width or percentage if needed */
+}
+
+
+
+ 
